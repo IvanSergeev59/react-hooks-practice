@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const Home = () => {
+export const About = () => {
     return (
         <div>
             <h1>About page</h1>
