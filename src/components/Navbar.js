@@ -7,10 +7,10 @@ export const Navbar = () => (
         </div>
         <ul className="navbar-nav">
             <li className="nav-item">
-                <a href="" className="nav-link">Главная</a>
+                <a href="/" className="nav-link">Главная</a>
             </li>
             <li className="nav-item">
-                <a href="" className="nav-link">Информация</a>
+                <a href="/about" className="nav-link">Информация</a>
             </li>
         </ul>
             
