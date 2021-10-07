@@ -13,3 +13,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.navbar-1 {
+  justify-content: space-around;
+}
+
+.navbar-nav {
+  flex-direction: row;
+}
+
+.nav-item {
+  margin-right: 10px;
+}
+
+.jumbotron {
+  background-color: lightgray;
+}
+
+.row {
+  margin-top: 20px;
+}
