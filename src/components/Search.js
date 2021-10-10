@@ -10,7 +10,7 @@ export const Search = () => {
         if (event.key !== 'Enter') {
             return
         }
-
+        github.clearUsers()
         if (value.trim()) {
            github.search(value.trim())
         } else {
